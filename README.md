@@ -1,3 +1,3 @@
 # **DATA STRUCTURE & ALGORITHM**
 
-# Mini Project Documentation: <br>PATIENT APPOINTMENT SYSTEM
+# Mini Project: <br>PATIENT APPOINTMENT SYSTEM
